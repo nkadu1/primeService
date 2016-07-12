@@ -2,21 +2,13 @@
 Client-Server-based-Multi-threaded-application
 
 CS542 Design Patterns
-Spring 2015
-PROJECT 2
 
-Due Date: Monday, March 09, 2015
-Submission Date: Monday, March 10, 2015
 Author(s): Niraj Kadu
 e-mail(s): nkadu1@binghamton.edu
 
 PURPOSE:
-
 Design a simple multi-threaded client-server code in Java
 
-PERCENT COMPLETE:
-
-I believe I have completed 100% of the project.
 
 FILES:
 
