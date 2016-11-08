@@ -1,8 +1,6 @@
 # primeService
 Client-Server-based-Multi-threaded-application
 
-CS542 Design Patterns
-
 Author(s): Niraj Kadu
 e-mail(s): nkadu1@binghamton.edu
 
